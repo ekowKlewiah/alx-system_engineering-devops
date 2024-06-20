@@ -1,2 +1,3 @@
 #!/bin/bash
-this is executable
+this file is executable
+ls
